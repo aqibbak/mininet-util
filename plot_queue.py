@@ -3,9 +3,7 @@ Plot queue occupancy over time
 '''
 from helper import *
 import plot_defaults
-
 plot_defaults.quarter_size()
-
 from matplotlib.ticker import MaxNLocator
 from pylab import figure
 
